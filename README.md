@@ -1,1 +1,0 @@
-# uas-metode-sechant
